@@ -134,5 +134,9 @@ body {
     .apresentacao__conteudo{
         width: auto;
     }
+    
+    .apresentação__imagem {
+        width: 40%
+    }
 }
 
