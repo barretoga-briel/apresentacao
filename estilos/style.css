@@ -59,8 +59,9 @@ body {
 }
 
 .apresentacao__imagem {
-    width: 50%;
+    width: auto;
     border-radius: 5%;
+    
 }
 
 .titulo-destaque {
