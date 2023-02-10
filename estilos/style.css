@@ -43,7 +43,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 82px;
+    gap: 70px;
 }
 
 .apresentacao__conteudo {
@@ -126,7 +126,7 @@ body {
     }
     
     .apresentacao {
-        flex-direction: column-reverse;
+        flex-direction: column;
         padding: 5px;
     }
 
